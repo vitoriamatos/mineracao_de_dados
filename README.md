@@ -18,6 +18,7 @@ Utilizando mineração de dados para analisar como questões sociais podem influ
   * Saúde do aluno
   * Modalidade da escola (EJA ou Regular)
 <br>
+
 * Algoritimos utilizados
 
   * Arvore de decisão
