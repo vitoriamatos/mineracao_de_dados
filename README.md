@@ -5,7 +5,7 @@
 </h4>
 <hr>
 
-Utilizando mineração de dados para analisar como questões sociais podem influenciar na evasão social de meninas no ensino de jovens adultos
+Utilizando mineração de dados para analisar como questões sociais podem influenciar na evasão escolar de meninas no ensino de jovens adultos
 
 
 * Variaveis análisadas
