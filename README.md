@@ -1,4 +1,4 @@
-### Como questões sociais podem influenciar na evasão social de meninas no ensino de jovens adultos?
+### Como questões sociais podem influenciar na evasão escolar de meninas no ensino de jovens adultos?
 
 
 Variaveis importantes 
