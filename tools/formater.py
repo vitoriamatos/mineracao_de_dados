@@ -1,7 +1,7 @@
 import pandas as pd
 import csv
 
-files = "v.csv"
+files = "data/controller/controller_social.csv"
 
 f = open(files)
 csv_f = csv.reader(f)
