@@ -11,16 +11,13 @@ Utilizando mineração de dados para analisar como questões sociais podem influ
 * Variaveis análisadas
 
   * Infraestrutura da escola
-  * Raça do aluno
   * Gênero do aluno
   * Região onde o aluno mora
-  * Idade do aluno
-  * Saúde do aluno
   * Modalidade da escola (EJA ou Regular)
 <br>
 
 * Algoritimos utilizados
 
   * Arvore de decisão
-  * Matriz de confusão
+  * K-means Clustering
   * Teste de acurácia
